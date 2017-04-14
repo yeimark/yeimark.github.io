@@ -155,7 +155,9 @@ p{
 figcaption{
 	font-size: 12px;
 }
-
+iframe{
+	margin-top: 10px;
+}
 
 /*CLASES*/
 
@@ -199,5 +201,6 @@ figcaption{
 
 .objetivo{float: right;width: 300px;height: 286px;}
 .footer{float: left;width: 300px;height: 100px;}
+.section3{height: 700px;}
 
 /*SEUDO CLASES*/
