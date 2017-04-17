@@ -189,7 +189,7 @@ iframe{
     margin-top: 20px;
 }
 #section2{
-	width: 1000px;
+	width: 995px;
 	background: rgba(0,88,131,.2);
 	height: 2000px;
 	float: left;
@@ -202,5 +202,5 @@ iframe{
 .objetivo{float: right;width: 300px;height: 286px;}
 .footer{float: left;width: 300px;height: 100px;}
 .section3{height: 700px;}
-
+.lecturatres{height: 2100px;}
 /*SEUDO CLASES*/
