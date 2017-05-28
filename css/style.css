@@ -173,6 +173,8 @@ iframe{
    position: relative;
 }
 #titulo{
+	margin-left: 10px;
+    font-size: 20px;
 	text-align: center;
 }
 
