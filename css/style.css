@@ -172,7 +172,9 @@ iframe{
    margin: auto;
    position: relative;
 }
-
+#titulo{
+	text-align: center;
+}
 
 #fo{
 	margin-bottom: 30px;
